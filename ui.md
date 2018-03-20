@@ -24,4 +24,18 @@
 
 - Not a big fan of the rounded tabs
 
-- "Tenancy" is misspelled in Nav.
+- "Tenancy" is misspelled in Nav. 
+
+
+- Cannot log in on safari (Dont know why)
+
+- All button on bashboard: What does it do? Why does it stay highlighted when clicked?
+
+- Reporting: Saved Queries automatically uploads .csv even though after clicking it says to select what you want to put in the file
+
+- Tentancy's 9 box button (by trash can) directs you to login page
+
+- Recently view in the munu is cut off until the user has viewed something
+
+- Reporting exort button not working 
+

@@ -28,3 +28,17 @@
 - Mobile Responsiveness isn't there
 
 - Some nav pages use vertical functionality like "Reporting" where the queries are saved on the left side of the component. Others like User Setting are horizontal- along the top of the component. This feels disjointed from a UX perspective.
+
+- Reporting too clustered, select fields take up too much space 
+
+- Dashboard: the top and bottom footers are too much to look at when its such a same list
+
+- Seems too condense. Small areas with scroll bars, if theres too many profiles scroll bar will be too long
+
+- Notifications oddly to the left
+
+- Settings tabs not all same length
+
+- Personly dont like the fact that clicking on a business takes the user to another page
+
+- Reporting exort button not working 
