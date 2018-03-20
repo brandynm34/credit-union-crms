@@ -24,3 +24,5 @@
 - Not a big fan of the rounded tabs, are ugly.
 
 - "Tenancy" is misspelled in Nav.
+
+- In the `Report Entities` under the `Reporting` section, you can't see the last tab. Viewing it on someone else's Mac, there was no scroll bar to indicate if the `Report Entities` would end. 

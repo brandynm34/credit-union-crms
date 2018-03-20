@@ -30,3 +30,9 @@
 - Mobile Responsiveness isn't there.
 
 - Some nav pages use vertical functionality like "Reporting" where the queries are saved on the left side of the component. Others like User Setting are horizontal- along the top of the component. This feels disjointed from a UX perspective.
+
+- When hovering over a link, it is kind of hard to see if there is any hover effect at all .
+
+- I believe that `Recently Viewed` and `No Recent Items` should both be either centered or aligned to the left.
+
+- The buttons that are active or selected in the `Calendar` tab look a bit off / doesn't fit well with the color scheme. 
